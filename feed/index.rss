@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Local Test Website</title>
+	<atom:link href="http://local-test-website.local/feed/" rel="self" type="application/rss+xml" />
+	<link>http://local-test-website.local</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 27 Jun 2018 13:18:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<item>
+		<title>5 Ways to Improve Your WordPress Website&#8217;s Performance</title>
+		<link>http://local-test-website.local/5-ways-to-improve-your-wordpress-websites-performance/</link>
+		<comments>http://local-test-website.local/5-ways-to-improve-your-wordpress-websites-performance/#respond</comments>
+		<pubDate>Sun, 18 Feb 2018 23:27:21 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://local-test-website.local/</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			<wfw:commentRss>http://local-test-website.local/5-ways-to-improve-your-wordpress-websites-performance/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Report: Apple making fewer iPhone Xs due to weak demand</title>
+		<link>http://local-test-website.local/report-apple-making-fewer-iphone-xs-due-to-weak-demand/</link>
+		<comments>http://local-test-website.local/report-apple-making-fewer-iphone-xs-due-to-weak-demand/#respond</comments>
+		<pubDate>Tue, 30 Jan 2018 14:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://arstechnica.com/?p=1251347</guid>
+		<description><![CDATA[Enlarge / The iPhone X&#8217;s front-facing camera and TrueDepth sensor, used for Face ID. Samuel Axon reader comments 21 Share this story Apple&#8217;s $1,000 iPhone X has apparently proven to be a hard sell for many. According to a report by The Wall Street Journal, Apple will cut its planned production of its flagship iPhone [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure class="intro-image intro-left"><img src="https://cdn.arstechnica.net/contents/data/2017/12/iPhone-X-table-front-1440x960-800x533.jpg"/><figcaption class="caption">
+<div class="caption-text"><a href="https://cdn.arstechnica.net/contents/data/2017/12/iPhone-X-table-front-1440x960.jpg" class="enlarge-link" data-height="960" data-width="1440">Enlarge</a> <span class="sep">/</span> The iPhone X&#8217;s front-facing camera and TrueDepth sensor, used for Face ID.</div>
+<div class="caption-credit">Samuel Axon</div>
+</figcaption></figure>
+<aside id="social-left"><a title="18 posters participating" class="comment-count icon-comment-bubble-down" href="https://arstechnica.com/gadgets/2018/01/report-apple-making-fewer-iphone-xs-due-to-weak-demand/?comments=1"> <span class="comment-count-before">reader comments</span> <span class="comment-count-number">21</span> </a> </p>
+<div class="share-links"> <span>Share this story</span> </div>
+</aside>
+<p><!-- cache hit 68:single/related:9def22003540e3b79fd04eb0e0d642c2 --><!-- empty --></p>
+<p>Apple&#8217;s <a href="https://arstechnica.com/gadgets/2017/11/iphone-x-review-early-adopting-the-future/">$1,000 iPhone X</a> has apparently proven to be a hard sell for many. According to a <a href="https://www.wsj.com/articles/apple-to-curtail-iphone-x-production-in-the-face-of-weak-demand-1517312098?mod=e2twd">report</a> by <em>The Wall Street Journal</em>, Apple will cut its planned production of its flagship iPhone through March by half, from the 40 million handsets originally planned to 20 million, due to &#8220;weaker-than-expected&#8221; demand.</p>
+<aside class="pullbox sidebar story-sidebar right"/>
+<p>In addition to cutting the number of handsets made, Apple also reportedly cut orders for components needed to make the iPhone X by 60 percent. Ars has reached out to Apple for further comment and will update if we hear back.</p>
+<p>While Apple did not provide an official statement to <em>The Wall Street Journal</em>, a person familiar with the matter claims these types of cuts come when &#8220;things aren&#8217;t selling well.&#8221; We&#8217;re only a few days away from Apple releasing its Q4 2017 earnings report on Thursday, which will likely reveal more information about iPhone sales through the end of last year. However, those sales will include numbers for iPhone 6, 7, and 8 models in addition to iPhone X sales numbers.</p>
+<p>Initial iPhone X production was hindered by component problems as the complex technology needed for FaceID, Apple&#8217;s new facial recognition system, apparently held things up. The first batch of iPhone X models <a href="https://arstechnica.com/gadgets/2017/10/first-iphone-x-batch-reportedly-only-contains-46500-units/">only contained 46,500 units</a>, suggesting Apple might have had issues keeping up with initial launch demand.</p>
+<p>However, the handset&#8217;s $1,000 price tag may have deterred potential customers from upgrading. The iPhone X is the most expensive handset the company has released, and many customers may have opted for the slightly more affordable iPhone 7 or 8 models. Overall, that&#8217;s not a bad thing for Apple. The company still sold iPhones—analysts anticipate total iPhone shipments for Q4 2017 to be up by 1.5 percent—but Apple may not have sold as many of its newest flagship as it had hoped.</p>
+<p> https://arstechnica.com/?p=1251347</p>
+]]></content:encoded>
+			<wfw:commentRss>http://local-test-website.local/report-apple-making-fewer-iphone-xs-due-to-weak-demand/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>http://local-test-website.local/hello-world/</link>
+		<comments>http://local-test-website.local/hello-world/#comments</comments>
+		<pubDate>Tue, 02 Jan 2018 01:57:47 +0000</pubDate>
+		<dc:creator><![CDATA[Alexander]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://local-test-website.local/</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<div class="et_pb_section  et_pb_section_0 et_section_regular">
+				
+				
+				
+					<div class=" et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4  et_pb_column_0 et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+			<div id="et_pb_contact_form_0" class="et_pb_module et_pb_contact_form_container clearfix  et_pb_contact_form_0 et_pb_with_border" data-form_unique_num="0">
+				
+				
+				<h1 class="et_pb_contact_main_title">Do You Want to Delete Your Account?</h1>
+				<div class="et-pb-contact-message"></div>
+				
+				<div class="et_pb_contact">
+					<form class="et_pb_contact_form clearfix" method="post" action="http://local-test-website.local/hello-world/">
+						<p class="et_pb_contact_field et_pb_contact_field_0 et_pb_contact_field_half" data-id="name" data-type="input">
+				
+				
+				<label for="et_pb_contact_name_1" class="et_pb_contact_form_label">Full Name and/or Username</label>
+				<input type="text" id="et_pb_contact_name_1" class="input" value="" name="et_pb_contact_name_1" data-required_mark="required" data-field_type="input" data-original_id="name" placeholder="Full Name and/or Username">
+			</p><p class="et_pb_contact_field et_pb_contact_field_1 et_pb_contact_field_half et_pb_contact_field_last" data-id="email" data-type="email">
+				
+				
+				<label for="et_pb_contact_email_1" class="et_pb_contact_form_label">Email Address</label>
+				<input type="text" id="et_pb_contact_email_1" class="input" value="" name="et_pb_contact_email_1" data-required_mark="required" data-field_type="email" data-original_id="email" placeholder="Email Address">
+			</p><p class="et_pb_contact_field et_pb_contact_field_2 et_pb_contact_field_last" data-id="message" data-type="text">
+				
+				
+				<label for="et_pb_contact_message_1" class="et_pb_contact_form_label">Please confirm why you want to delete your account. You don&#039;t need to include any reason if you don&#039;t want to, but please be aware we&#039;ll contact you at your registered email to confirm your request.</label>
+				<textarea name="et_pb_contact_message_1" id="et_pb_contact_message_1" class="et_pb_contact_message input" data-required_mark="required" data-field_type="text" data-original_id="message" placeholder="Please confirm why you want to delete your account. You don&#039;t need to include any reason if you don&#039;t want to, but please be aware we&#039;ll contact you at your registered email to confirm your request."></textarea>
+			</p>
+						<input type="hidden" value="et_contact_proccess" name="et_pb_contactform_submit_0">
+						<input type="text" value="" name="et_pb_contactform_validate_0" class="et_pb_contactform_validate_field" />
+						<div class="et_contact_bottom_container">
+							
+			<div class="et_pb_contact_right">
+				<p class="clearfix">
+					<span class="et_pb_contact_captcha_question">14 + 4</span> = <input type="text" size="2" class="input et_pb_contact_captcha" data-first_digit="14" data-second_digit="4" value="" name="et_pb_contact_captcha_0" data-required_mark="required">
+				</p>
+			</div> <!-- .et_pb_contact_right -->
+							<button type="submit" class="et_pb_contact_submit et_pb_button">Yes, I want to delete my account</button>
+						</div>
+						<input type="hidden" id="_wpnonce-et-pb-contact-form-submitted" name="_wpnonce-et-pb-contact-form-submitted" value="487f828495" /><input type="hidden" name="_wp_http_referer" value="/feed/" />
+					</form>
+				</div> <!-- .et_pb_contact -->
+			</div> <!-- .et_pb_contact_form_container -->
+			
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section -->
+]]></content:encoded>
+			<wfw:commentRss>http://local-test-website.local/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
